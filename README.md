@@ -6,7 +6,6 @@
 - ⚡ Fun fact: I'm a huge fan of fantasy worlds, and I love playing D&D in my spare time!
 
 **How can you reach me?**
-
 <p>
   <a target="_blank" href="[https://www.linkedin.com/in/yan-gabriel-07ba581b4/](https://www.linkedin.com/in/danilo-batista-lima-54b691225/)">
     <img align="left" alt="LinkedIN" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -22,7 +21,6 @@
 </p>&nbsp;
 
 **Some of the stuff I know**
-
 <p>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
@@ -31,4 +29,4 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
-</p>
+</p>&nbsp;
