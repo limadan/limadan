@@ -19,7 +19,8 @@
     <img align="left" alt="Email" src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   <a/>
 </p>&nbsp;
-<h3 style="margin-top:20px;">Some of the stuff I know</h3>
+    &nbsp;
+<h3>Some of the stuff I know</h3>
 <p>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
