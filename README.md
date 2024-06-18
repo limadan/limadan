@@ -2,7 +2,7 @@
 
 - 🔭 I'm Danilo and I'm currently working as a fullstack software engineer at <a href="[https://mobradio.com.br/](https://mobradio.com.br/)" target="_blank">MobRadio</a>
 - 🌱 I’m currently interested in hone my back-end skills, learning new techniques and programming languages
-- 👯 I’m looking to collaborate on projects and companies where I can showcase some of the stuff I've been learning
+- 👯 I’m looking to collaborate on projects and companies where I can showcase what I've been learning
 - ⚡ Fun fact: I'm a huge fan of fantasy worlds, and I love playing D&D in my spare time!
 
 <h3>How can you reach me?</h3>
