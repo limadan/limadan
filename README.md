@@ -18,6 +18,14 @@
 
 **Feel free to reach out if you have any questions or if you'd like to collaborate on a project!**
 
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [Email](mailto:yourname@example.com)
-- [WhatsApp](https://wa.me/yourphonenumber)
+<a target="_blank" href="https://www.linkedin.com/in/yan-gabriel-07ba581b4/">
+<img align="left" alt="LinkedIN" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a/>
+
+<a target="_blank" href="https://api.whatsapp.com/send?phone=5531987771504">
+<img align="left" alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a/>
+
+<a target="_blank" href="mailto:yangabriel2012@gmail.com">
+<img align="left" alt="Email" src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> <a/>
+</p>&nbsp;
