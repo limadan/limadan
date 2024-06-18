@@ -5,6 +5,7 @@
 - 👯 I’m looking to collaborate on projects and companies where I can showcase what I've been learning
 - ⚡ Fun fact: I'm a huge fan of fantasy worlds, and I love playing D&D in my spare time!
 
+
 **Some of the stuff I know**
 
 <p>
@@ -17,7 +18,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 </p>&nbsp;
 
-**Feel free to reach out if you have any questions or if you'd like to collaborate on a project!**
+**Feel free to reach me out if you have any questions or if you'd like to collaborate on a project!**
 
 <a target="_blank" href="https://www.linkedin.com/in/danilo-batista-lima-54b691225/">
   <img align="left" alt="LinkedIN" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
