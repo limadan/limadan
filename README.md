@@ -6,6 +6,7 @@
 - ⚡ Fun fact: I'm a huge fan of fantasy worlds, and I love playing D&D in my spare time!
 
 **Some of the stuff I know**
+
 <p>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
