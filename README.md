@@ -1,20 +1,28 @@
-## Hi, everyone 👋
+# 👋 Hi, I'm Dan  
 
-- 🔭 I'm Danilo and I'm currently a fullstack software engineer
-- 🌱 I’m currently interested in hone my back-end skills, learning new techniques and programming languages
-- 👯 I’m looking to collaborate on projects and companies where I can showcase what I've been learning
-- ⚡ Fun fact: I'm a huge fan of fantasy worlds, and I love playing D&D in my spare time!
+I build software that makes work **faster, simpler, and more reliable** by turning repetitive manual tasks into scalable automated systems.  
 
+## 🔹 What I focus on  
+- Automation & custom scripts that eliminate hours of manual work  
+- Web scraping & data pipelines powering data-driven apps  
+- API development & system integrations  
+- Full-stack development with clean, maintainable code  
 
-**Some of the stuff I know**
+## 🔹 Some highlights  
+- Automated notifications for **70,000+ devices**  
+- Cut API costs by **95%** with a custom caching layer  
+- Built data pipelines that feed directly into **AI/ML models**
 
+## 🔹 Tech I use  
 <p>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" title="VueJS" **alt="VueJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original-wordmark.svg" title="AngularJS" **alt="AngularJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" **alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 </p>&nbsp;
 
